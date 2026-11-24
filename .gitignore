@@ -7,3 +7,6 @@ data/
 input_data/
 output_data/
 results/
+input_data
+results
+output_data
