@@ -7,6 +7,7 @@ library(tidydr)
 library(ggplot2)
 
 
+#AQUÍ OBVIO USTEDES DIRIGEN A DONDE ESTÉ SU INPUT DATA Y DESPUÉS VEMOS QUE SEA REPRODUCIBLE 
 # LOAD METADATA 
 parkinson_data <- readRDS("~/Documents/Servicio_Social/PARKINSON_PROJECT/input_data/parkinson_clean_2025-12-01.RDS")
 
