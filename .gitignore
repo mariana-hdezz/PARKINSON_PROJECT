@@ -1,0 +1,9 @@
+
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+data/
+input_data/
+output_data/
+results/
